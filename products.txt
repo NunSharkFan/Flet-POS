@@ -1,0 +1,4 @@
+*ID     *NAME                               *PRICE          *IN         *IMAGE
+ID:0      NAME:Apple                                        PRICE:27.0     IN:50     IMAGE:pics/apple.jpg
+ID:1      NAME:Pineapple                                    PRICE:42.0     IN:50     IMAGE:pics/pineapple.jpg
+ID:2      NAME:Pen                                          PRICE:146.0    IN:100    IMAGE:pics/pen.jpg
